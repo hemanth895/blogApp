@@ -1,0 +1,6 @@
+{
+     "editor.columnSelection": true,
+     "editor.find.autoFindInSelection": "always",
+     "editor.selectionHighlight": true,
+     "terminal.integrated.macOptionClickForcesSelection": true
+}
